@@ -83,7 +83,6 @@
             checkout() {
                 this.$emit('closed', false)
                 this.$router.push({path: "/checkout"})
-                this.setStatusDialog(false)
             },
             close() {
                 this.setStatusDialog(false)

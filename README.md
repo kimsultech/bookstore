@@ -1,4 +1,4 @@
-# myproject2
+# Bookstore
 
 ## Project setup
 ```
